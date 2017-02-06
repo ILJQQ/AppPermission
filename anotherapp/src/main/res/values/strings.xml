@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AnotherApp</string>
+    <string name="btnJump">跳转到另一个App</string>
+</resources>

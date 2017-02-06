@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AppPermission</string>
+    <string name="btnJump">跳转到app内另一个Activity</string>
+</resources>
